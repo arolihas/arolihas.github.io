@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: MRI Diagnosis Modeling
+description: Improving SOTA with attention and semi-supervised learning
+img:
 importance: 3
+github: https://www.github.com/arolihas/mrnet
 ---
 
 Every project has a beautiful feature showcase page.

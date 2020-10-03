@@ -1,16 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title: Metabolomic Profiling
+description: BSEL research
+img: /assets/img/12.jpg
+importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I used scikit-learn to apply supervised learning techniques such as logistic regression, linear discriminant analysis, and support vector machines wrapped in recursive feature elimination to find the minimal metabolite concentrations needed to classify cells by a specific phenotype such as stem cell differentiation, presence of melanoma, or organ source. This methodology is universal, and I have applied it to multiomic datasets for classificiation such as proteomic data and RNA sequencing. Developed as an interactive dashboard with RShiny and as a series of jupyter notebooks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page

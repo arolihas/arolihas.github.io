@@ -1,16 +1,13 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: My Brain
+description: Courtesy of CABI
+img: /assets/img/1.jpg
 importance: 4
+github: https://github.com/arolihas/my_brain
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I participated in a neuroimaging research study for the Memory and Aging Lab at the Center for Advanced Brain Imaging. Many thanks to Dr. Duarte for allowing me to retrieve these brain scans conducted during the study. I plan on incorporating these into a machine learning project centered around fMRI encodings.
 
     ---
     layout: page

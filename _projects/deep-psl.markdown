@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 1
+title: Interpretable CNN-biLSTMS for PSL
+description: Visualizing attention for Protein Subcellular Localization 
+img:
+importance: 3
+github: https://github.com/arolihas/interpretable_deepPSL
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Motif embedded Disease Prediction
+description: GCNs applied to PPI networks for disease pathways
+github: https://github.com/arolihas/ppi-motifs
 importance: 3
 ---
 

@@ -1,17 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Adhesion Detection Clustering
+description: BioMEMS 2019 Research
+img: /assets/img/3.jpg
+importance: 2
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I performed machine learning research in applied physics at Dr. Sulchek's BioMEMS Laboratory. Our goal is to use clustering techniques to identify regions of a deflection position curve to isolate where an atomic force microscopy (AFM) probe binds to a ligand surface. Creating a consistent and reliable tool to classify binding regions and measuring the force for AFM adhesion would potentially help with detecting other forms of force interaction such as cell to cell binding.
 
     ---
     layout: page
