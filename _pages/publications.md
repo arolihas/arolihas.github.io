@@ -4,7 +4,7 @@ permalink: /papers/
 title: papers
 description: projects and reports I've collaborated on
 
-years: [2021, 2021, 2021, 2021, 2021, 2020, 2020] 
+years: [2021, 2020] 
 nav: true
 nav_order: 1
 ---
