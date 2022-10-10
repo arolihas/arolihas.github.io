@@ -7,6 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<a href="https://omscs.gatech.edu/cs-7643-deep-learning">OMSCS Deep Learning</a>, SP2021 Head TA, FA2021 TA
 
-Organize your courses by years, topics, or universities, however you like!
