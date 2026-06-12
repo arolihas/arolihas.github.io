@@ -23,9 +23,25 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Founding Machine Learning Scientist
+      institution: Immunera
+      year: 2026 - Present
+      description:
+        - Deep learning for immunology
+        - Antibody language models, causal inference and biostatistics, clinical representation learning
+
+    - title: AI Scientist
+      institution: Ordaos Bio
+      year: 2022 - 2026
+      description:
+        - Nanobody and miniprotein design
+        - Generative protein modeling, active learning, molecular dynamics
+
     - title: Machine Learning Engineer
-      institution: VantAI
+      institution: VantAI (now Proxima Bio)
       year: 2021 - 2022
+      description:
+        - Protein-protein interaction prediction with geometric deep learning
 
     - title: Head Teaching Assistant
       institution: Georgia Institute of Technology, Atlanta, GA
