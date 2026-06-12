@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Scientist at <a href=https://www.ordaos.bio>Ordaos Bio</a> 
+subtitle: Founding Machine Learning Scientist at <a href=https://immunera.ai>Immunera</a> 
 
 profile:
   align: right
